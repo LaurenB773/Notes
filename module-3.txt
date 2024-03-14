@@ -1,0 +1,40 @@
+3/14/24                          CSS Flexbox
+
+A flex container takes away some functionality of the block container 
+        Exp. float and vertical alignment do not apply   
+Main Axis ALignment 
+justify-content(every single item in container), justify-self(for one particular item) (flex-start is default)
+    Flex- start
+    Flex-end
+    Center
+    Space-between
+    Space-around- takes up remaining and distributed it around each item
+Cross Axis Alignment 
+    Align-items, align-self - (stretch is default)
+    Flex-start
+    Center
+    Baseline
+    Stretch
+    Flex-end
+Direction of Flex Items (flex-direction: ______)
+
+Customized Order of Flex Items 
+    All items have a default order of 0
+.item{                           
+    display:flex
+		{
+.item{
+    display: 1
+		{
+Align Content
+Defines line alignment and distributes extra space alone the cross axis 
+    Has no effect when flex box does not wrap
+    Sizing Flex Items 
+    Flex basis- The base size of flex item
+    Will override width or height
+Flex-grow- how much the flex item will grow relative to other items
+New width + ((flex grow / Total flex grow) x free space = width
+
+****Font awesome- icons****
+Calendar 
+Variable polymorphism (time you used it)
