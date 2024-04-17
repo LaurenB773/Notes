@@ -35,6 +35,7 @@ Defines line alignment and distributes extra space alone the cross axis
 Flex-grow- how much the flex item will grow relative to other items
 New width + ((flex grow / Total flex grow) x free space = width
 
-****Font awesome- icons****
+***Font awesome - icons***
+***Feather Icons***
 Calendar 
 Variable polymorphism (time you used it)
